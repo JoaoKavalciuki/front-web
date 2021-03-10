@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/front-web/static/css/main.2857b6ea.chunk.css",
+    "main.js": "/front-web/static/js/main.9e46a849.chunk.js",
+    "main.js.map": "/front-web/static/js/main.9e46a849.chunk.js.map",
+    "runtime-main.js": "/front-web/static/js/runtime-main.770734dc.js",
+    "runtime-main.js.map": "/front-web/static/js/runtime-main.770734dc.js.map",
+    "static/css/2.83342f34.chunk.css": "/front-web/static/css/2.83342f34.chunk.css",
+    "static/js/2.f21c8228.chunk.js": "/front-web/static/js/2.f21c8228.chunk.js",
+    "static/js/2.f21c8228.chunk.js.map": "/front-web/static/js/2.f21c8228.chunk.js.map",
+    "index.html": "/front-web/index.html",
+    "static/css/2.83342f34.chunk.css.map": "/front-web/static/css/2.83342f34.chunk.css.map",
+    "static/css/main.2857b6ea.chunk.css.map": "/front-web/static/css/main.2857b6ea.chunk.css.map",
+    "static/js/2.f21c8228.chunk.js.LICENSE.txt": "/front-web/static/js/2.f21c8228.chunk.js.LICENSE.txt",
+    "static/media/instagram.6e57041a.svg": "/front-web/static/media/instagram.6e57041a.svg",
+    "static/media/logo.b95d77f1.svg": "/front-web/static/media/logo.b95d77f1.svg",
+    "static/media/main.2830411d.svg": "/front-web/static/media/main.2830411d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.770734dc.js",
+    "static/css/2.83342f34.chunk.css",
+    "static/js/2.f21c8228.chunk.js",
+    "static/css/main.2857b6ea.chunk.css",
+    "static/js/main.9e46a849.chunk.js"
+  ]
+}
